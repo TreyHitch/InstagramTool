@@ -4,7 +4,8 @@ Instagram is one of the most popular social media platforms for sharing photos a
 
 Sometimes, you may want to [download a video from Instagram](https://snoopreport.com/) to use as part of another project or even for personal reasons. Luckily, it’s easy to download both your own videos and Videos posted by other accounts. 
 
-![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/8562a457-af47-4902-aed0-4e8c6b8fb363)
+![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/58ab34b6-bd4f-4c9b-a68c-502e4811a635)
+
 
 <sup>*Apart from the tools for downloading videos, another game changer is the Snoopreport Instagram activity tracker, with which you can monitor any public profile*</sup>
 
@@ -65,8 +66,10 @@ If you want to browse Instagram content on your computer and have the ability to
 
 If you don’t want to use an extension, you can visit one of the many free websites allowing video downloads. You will see ads on these pages; that’s how the service makes money. The ads are not too bothersome and are a small price to pay for an otherwise free service. 
 
-![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/595c08d4-40a8-44a6-b3d5-8ec3023e8417)
- 
+![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/4f858d74-3067-4920-9c13-d8d72298c18a)
+
+
+
 <sup>*How to see what someone likes on Instagram?*</sup>
 
 
@@ -94,7 +97,7 @@ In addition to the ability to download videos from any public account, you can a
 
 [Snoopreport](https://snoopreport.com/) users have tracked their spouses, boyfriends, kids, family or friends, and favorite celebrities. You can use these reports to keep your jealousy at bay with a lover or to keep your kids safe online. You can also learn more about your friends and family through their interests on social media. You can see recent data, get weekly reports, or look back for up to 36 weeks. 
 
-![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/a5251d55-6fce-4920-bde5-b3f5c64ab332)
+![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/8b22f7a1-13af-41ed-bfc1-058d666ed50f)
 
  
 <sup>*Snoopreport is the best Instagram followings and unfollowings tracker app**</sup>
@@ -102,8 +105,7 @@ In addition to the ability to download videos from any public account, you can a
 
 Snoopreport can also be used professionally to track competitors or to follow the activity of user profiles that resemble their ideal customers. The information you can learn from this public data can help you form new business and marketing ideas. 
 
-What types of things can you expect on your Snoopreport? Want to see what accounts someone “likes” the most or who their “super fans” are? Besides followers and likes, you can also track hashtag use and how active someone is on the platform. This data can be pulled for business or personal use. The best part is it’s completely legal and easy to do. Sign up and get started for as little as .99 cents per week. 
-
+What types of things can you expect on your Snoopreport? Want to see what accounts someone “likes” the most or who their “super fans” are? Besides followers and likes, you can also track hashtag use and how active someone is on the platform. This data can be pulled for business or personal use. The best part is it’s completely legal and easy to do. Sign up and get started for as little as .99 cents per 
 
 [![sign-up-button](https://github.com/TreyHitch/InstagramTool/assets/139141444/33370db0-4132-43d2-95aa-128cccf88d2d)](https://app.snoopreport.com/en/auth/signup)
 
