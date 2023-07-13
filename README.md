@@ -6,21 +6,21 @@ Sometimes, you may want to [download a video from Instagram](https://snoopreport
 
 ![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/8562a457-af47-4902-aed0-4e8c6b8fb363)
 
-Image 1. Apart from the tools for downloading videos, another game changer is the Snoopreport Instagram activity tracker, with which you can monitor any public profile
+<sup>*Apart from the tools for downloading videos, another game changer is the Snoopreport Instagram activity tracker, with which you can monitor any public profile*</sup>
 
 ### **Table Of Context:**
 
 - [Why Would You Want To Download Videos On Instagram?](https://github.com/TreyHitch/InstagramTool#why-would-you-want-to-download-videos-on-instagram)
 
-- How To Download Your Own Videos On Instagram 
+- [How To Download Your Own Videos On Instagram](https://github.com/TreyHitch/InstagramTool/edit/main/README.md#how-to-download-your-own-videos-on-instagram) 
 
-- Can You Download Other People’s Videos On Instagram?
+- [Can You Download Other People’s Videos On Instagram?](https://github.com/TreyHitch/InstagramTool#can-you-download-other-peoples-videos-on-instagram)
 
-- How To Download Instagram Videos From A Computer
+- [How To Download Instagram Videos From A Computer](https://github.com/TreyHitch/InstagramTool#how-to-download-instagram-videos-using-your-phone)
 
-- How To Download Instagram Videos Using Your Phone 
+- [How To Download Instagram Videos Using Your Phone](https://github.com/TreyHitch/InstagramTool#how-to-download-instagram-videos-using-your-phone)
 
-- How To Track Any Pubilc Instagram Account Without Detection
+- [How To Track Any Pubilc Instagram Account Without Detection](https://github.com/TreyHitch/InstagramTool#how-to-track-any-pubilc-instagram-account-without-detection)
 
 ## Why Would You Want To Download Videos On Instagram?
 
@@ -67,7 +67,7 @@ If you don’t want to use an extension, you can visit one of the many free webs
 
 ![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/595c08d4-40a8-44a6-b3d5-8ec3023e8417)
  
-Image 2. How to see what someone likes on Instagram?
+<sup>*How to see what someone likes on Instagram?*</sup>
 
 
 Here are two of the top websites for downloading Instagram Reels according to how they are ranked on Google:
@@ -97,7 +97,7 @@ In addition to the ability to download videos from any public account, you can a
 ![image](https://github.com/TreyHitch/InstagramTool/assets/139141444/a5251d55-6fce-4920-bde5-b3f5c64ab332)
 
  
-Image 3. Snoopreport is the best Instagram followings and unfollowings tracker app
+<sup>*Snoopreport is the best Instagram followings and unfollowings tracker app**</sup>
 
 
 Snoopreport can also be used professionally to track competitors or to follow the activity of user profiles that resemble their ideal customers. The information you can learn from this public data can help you form new business and marketing ideas. 
