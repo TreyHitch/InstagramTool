@@ -10,7 +10,7 @@ Image 1. Apart from the tools for downloading videos, another game changer is th
 
 ### **Table Of Context:**
 
-- [Why Would You Want To Download Videos On Instagram?](https://github.com/TreyHitch/InstagramTool/edit/main/README.md#how-to-download-almost-any-video-from-instagram)
+- [Why Would You Want To Download Videos On Instagram?](https://github.com/TreyHitch/InstagramTool#why-would-you-want-to-download-videos-on-instagram)
 
 - How To Download Your Own Videos On Instagram 
 
